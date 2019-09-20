@@ -1,0 +1,55 @@
+body, html{
+    padding: 0;
+    margin: 0;
+}
+
+.row-1 {
+width: 100%;
+height: 100px;
+background-color: rgb(193, 189, 189);
+display: inline-block;
+}
+
+.small-blue-box {
+    width:80px;
+    height:80px;
+    margin-top: 10px;
+    margin-left: 30px;
+    background-color: rgb(0, 157, 255);
+    display: inline-block;
+    
+}
+
+.row-2 {
+    weidth: 100%;
+    height: 150px;
+    text-align: center;
+    color: black;
+    font-size: 1.2em;
+    margin-top: 50px;
+
+}
+
+.row-3 {
+    width:100%;
+    height: 100px;
+    background-color: rgb(0, 157, 255)
+}
+
+.row-4 {
+    width:100%;
+    height: 100px;
+    background-color: rgb(24, 211, 177);  
+}
+
+.row-5 {
+    width:100%;
+    height: 100px;
+    background-color: rgb(145, 187, 85);  
+}
+
+.row-6 {
+    width:100%;
+    height: 100px;
+    background-color: rgb(220, 215, 62);  
+}
